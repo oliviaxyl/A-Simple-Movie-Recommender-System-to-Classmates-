@@ -2,8 +2,8 @@
 
 #### -- Project Status: [Completed]
 
-## Project Objective
-The purpose of this project is to 
+## Coursework Objective
+The purpose of this coursework is to 
 
 ### Methods Used
 * Item-based collaborative filter 
