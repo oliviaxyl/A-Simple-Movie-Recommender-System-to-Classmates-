@@ -3,7 +3,8 @@
 #### -- Project Status: [Completed]
 
 ## Coursework Objective
-The purpose of this coursework is to 
+
+The purpose of this coursework is to implement basic collaborative filter techniques and suggest relevant movies to classmates.
 
 ### Methods Used
 * Item-based collaborative filter 
