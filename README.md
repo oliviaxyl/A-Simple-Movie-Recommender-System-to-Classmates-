@@ -24,11 +24,11 @@ The purpose of this coursework is to
 * Users Similarity Matrix: 46 * 46
 * Items Similarity Matrix: 20 * 20
 
-### Item-based collaborative filter 
+### User-based collaborative filter 
 
 ![user](https://user-images.githubusercontent.com/49653689/95283857-b9930200-082a-11eb-8ed3-fc1ef52e68b3.png)
 
-### User-based collaborative filter 
+### Item-based collaborative filter 
 
 ![item](https://user-images.githubusercontent.com/49653689/95283871-bef04c80-082a-11eb-97b6-18cd2db35a65.png)
 
