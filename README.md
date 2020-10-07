@@ -39,3 +39,21 @@ The purpose of this coursework is to implement basic collaborative filter techni
 
 ## Future Work
 
+
+## Reference
+
+softImpute
+https://www.rdocumentation.org/packages/softImpute/versions/1.4/topics/softImpute
+
+Package ‘softImpute’ 
+https://cran.r-project.org/web/packages/softImpute/softImpute.pdf
+
+SVD example 
+https://www.d.umn.edu/~mhampton/m4326svd_example.pdf
+
+Matrix Completion and Low-Rank SVD via Fast Alternating Least Squares
+https://arxiv.org/pdf/1410.2596.pdf
+
+A Simple Algorithm for Nuclear Norm Regularized Problems 
+https://www.m8j.net/data/List/Files-149/fastRegNuclearNormOptimization.pdf
+
