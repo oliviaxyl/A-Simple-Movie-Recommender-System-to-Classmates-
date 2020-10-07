@@ -41,7 +41,7 @@ The purpose of this coursework is to implement basic collaborative filter techni
 
 ## Challenges
 
-In reality, recommendation data is extremely sparse in large scale. Besides, a new user or a newly released movie suffers from cold start.
+In reality, recommendation data is extremely sparse in large scale. Besides, a new user or a newly released movie can suffer from cold start.
 
 ## Future Work
 
