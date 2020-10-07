@@ -13,7 +13,7 @@ The purpose of this coursework is to
 ### Technologies
 * R
 
-## Project Description
+## Coursework Description
 
 ### Data 
 
