@@ -24,11 +24,12 @@ The purpose of this coursework is to
 * Users Similarity Matrix: 46 * 46
 * Items Similarity Matrix: 20 * 20
 
-### Project Flow
+### Item-based collaborative filter 
 
 
-### Results
+### User-based collaborative filter 
 
+### Matrix Completion 
 
 ## Future Work
 
