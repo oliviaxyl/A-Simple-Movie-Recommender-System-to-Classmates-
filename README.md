@@ -39,11 +39,13 @@ The purpose of this coursework is to implement basic collaborative filter techni
 
 ![matrixcompletion](https://user-images.githubusercontent.com/49653689/95283874-c1eb3d00-082a-11eb-92bc-403cf2b50a9e.png)
 
-## Challenges
+## Challenges 
 
-In reality, recommendation data is extremely sparse in large scale. Besides, a new user or a newly released movie can suffer from cold start.
+In reality, recommendation data is extremely sparse in large scale. Besides, a new user or a newly released movie can suffer from cold start. 
 
-## Future Work
+## Future Work 
+
+
 
 ## Reference
 
