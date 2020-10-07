@@ -9,7 +9,7 @@ The purpose of this coursework is to implement basic collaborative filter techni
 ### Methods Used
 * Item-based collaborative filter 
 * User-based collaborative filter 
-* Nuclear-Norm regularization
+* Low-rank approximation
 
 ### Technologies
 * R
@@ -33,7 +33,7 @@ The purpose of this coursework is to implement basic collaborative filter techni
 
 ![item](https://user-images.githubusercontent.com/49653689/95283871-bef04c80-082a-11eb-97b6-18cd2db35a65.png)
 
-### Matrix Completion 
+### Matrix Completion with low-rank matrix approximation (Nuclear norm minimization)
 
 ![matrixcompletion](https://user-images.githubusercontent.com/49653689/95283874-c1eb3d00-082a-11eb-92bc-403cf2b50a9e.png)
 
