@@ -47,8 +47,6 @@ In reality, recommendation data is extremely sparse in large scale. Besides, a n
 
 * SoftMax DNN
 
-
-
 ## Reference
 
 softImpute
