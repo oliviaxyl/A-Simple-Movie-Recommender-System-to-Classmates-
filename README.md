@@ -45,6 +45,8 @@ In reality, recommendation data is extremely sparse in large scale. Besides, a n
 
 ## Future Work 
 
+* SoftMax DNN
+
 
 
 ## Reference
