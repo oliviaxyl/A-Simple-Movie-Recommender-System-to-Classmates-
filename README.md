@@ -64,3 +64,6 @@ https://arxiv.org/pdf/1410.2596.pdf
 A Simple Algorithm for Nuclear Norm Regularized Problems 
 https://www.m8j.net/data/List/Files-149/fastRegNuclearNormOptimization.pdf
 
+Recommondation Systems
+https://developers.google.com/machine-learning/recommendation/collaborative/matrix
+
