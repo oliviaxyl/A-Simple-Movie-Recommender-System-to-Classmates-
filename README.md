@@ -73,5 +73,5 @@ https://medium.com/coinmonks/how-to-implement-a-recommendation-system-with-deep-
 Neural Collaborative Filtering (NCF) Explanation & Implementation in Pytorch
 https://www.youtube.com/watch?v=O4lk9Lw7lS0
 
-Neural Collaborative Filtering∗
+Neural Collaborative Filtering
 https://arxiv.org/pdf/1708.05031.pdf
