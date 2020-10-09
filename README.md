@@ -1,6 +1,6 @@
 # A-Simple-Movie-Recommender-System-to-Classmates-
 
-#### -- Project Status: [Completed]
+#### -- Project Status: [On going]
 
 ## Coursework Objective
 
