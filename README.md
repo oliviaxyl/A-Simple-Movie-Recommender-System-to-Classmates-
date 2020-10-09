@@ -76,3 +76,5 @@ https://www.youtube.com/watch?v=O4lk9Lw7lS0
 Neural Collaborative Filtering
 https://arxiv.org/pdf/1708.05031.pdf
 
+Matrix Factorization
+https://cims.nyu.edu/~cfgranda/pages/OBDA_fall17/notes/matrix_factorization.pdf
