@@ -49,9 +49,6 @@ In reality, recommendation data is extremely sparse in large scale. Besides, a n
 
 ## Reference
 
-softImpute
-https://www.rdocumentation.org/packages/softImpute/versions/1.4/topics/softImpute
-
 Package ‘softImpute’ 
 https://cran.r-project.org/web/packages/softImpute/softImpute.pdf
 
