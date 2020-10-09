@@ -75,3 +75,6 @@ https://www.youtube.com/watch?v=O4lk9Lw7lS0
 
 Neural Collaborative Filtering
 https://arxiv.org/pdf/1708.05031.pdf
+
+Singular Value Decomposition vs. Matrix Factorization in Recommender Systems
+https://www.freecodecamp.org/news/singular-value-decomposition-vs-matrix-factorization-in-recommender-systems-b1e99bc73599/
