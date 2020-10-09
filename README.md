@@ -67,3 +67,9 @@ https://www.m8j.net/data/List/Files-149/fastRegNuclearNormOptimization.pdf
 Recommondation Systems
 https://developers.google.com/machine-learning/recommendation/collaborative/matrix
 
+How to Implement a Recommendation System with Deep Learning and PyTorch
+https://medium.com/coinmonks/how-to-implement-a-recommendation-system-with-deep-learning-and-pytorch-2d40476590f9
+
+Neural Collaborative Filtering (NCF) Explanation & Implementation in Pytorch
+https://www.youtube.com/watch?v=O4lk9Lw7lS0
+
