@@ -79,5 +79,5 @@ https://cims.nyu.edu/~cfgranda/pages/OBDA_fall17/notes/matrix_factorization.pdf
 MATRIX FACTORIZATION TECHNIQUES FOR RECOMMENDER SYSTEMS
 https://datajobs.com/data-science-repo/Recommender-Systems-[Netflix].pdf
 
-Neural Collaborative Filtering (Towards Data Sciene)
+Neural Collaborative Filtering (Towards Data Science)
 https://towardsdatascience.com/neural-collaborative-filtering-96cef1009401
