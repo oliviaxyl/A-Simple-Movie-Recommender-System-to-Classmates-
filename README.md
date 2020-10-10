@@ -82,5 +82,5 @@ https://datajobs.com/data-science-repo/Recommender-Systems-[Netflix].pdf
 Neural Collaborative Filtering (Towards Data Science)
 https://towardsdatascience.com/neural-collaborative-filtering-96cef1009401
 
-Neural Networks for Collaborative Filtering （keras example) 
+Neural Networks for Collaborative Filtering（keras example) 
 https://nipunbatra.github.io/blog/ml/2017/12/29/neural-collaborative-filtering.html
