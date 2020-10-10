@@ -20,7 +20,7 @@ The purpose of this coursework is to implement basic collaborative filter techni
 
 * User-Based Matrix U: 46 (Users) * 14 ('Gender' + 'Favorite Color' + 12 Genres 0/1)
 * Item Based Matrix I: 20 (Movies) * 12 (Genres)
-* Rating Matrix l: 20 (Movie ratings scaled in 1-5) * 45 (Users)
+* Rating Matrix l: 20 (Movie ratings scaled in 1-5) * 46 (Users)
 
 * Users Similarity Matrix: 46 * 46
 * Items Similarity Matrix: 20 * 20
