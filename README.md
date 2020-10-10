@@ -1,5 +1,7 @@
 # A-Simple-Movie-Recommender-System-to-Classmates-
 
+![movie](https://user-images.githubusercontent.com/49653689/95661739-9fde0d00-0aff-11eb-864c-288a2ec8e825.png)
+
 #### -- Project Status: [Completed]
 
 ## Project Objective
