@@ -1,6 +1,6 @@
 # A-Simple-Movie-Recommender-System-to-Classmates-
 
-#### -- Project Status: [On going]
+#### -- Project Status: [Completed]
 
 ## Project Objective
 
@@ -43,6 +43,10 @@ The purpose of this coursework is to implement basic collaborative filter techni
 
 #### Neural matrix factorization model
 ![NeuMF](https://user-images.githubusercontent.com/49653689/95661480-b4210a80-0afd-11eb-843b-5f26d2236d00.png)
+
+### Results
+
+
 
 ## Reference
 
