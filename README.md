@@ -4,7 +4,7 @@
 
 ## Project Objective
 
-The purpose of this coursework is to implement basic collaborative filter techniques and suggest relevant movies to classmates.
+The purpose of this coursework is to implement recommendation techniques and suggest relevant movies to classmates.
 
 ### Methods Used
 * Item-based collaborative filter 
