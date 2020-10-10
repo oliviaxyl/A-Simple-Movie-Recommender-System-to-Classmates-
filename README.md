@@ -37,7 +37,7 @@ The purpose of this coursework is to implement recommendation techniques and sug
 
 ![item](https://user-images.githubusercontent.com/49653689/95283871-bef04c80-082a-11eb-97b6-18cd2db35a65.png)
 
-* Matrix completion - low-rank matrix approximation via nuclear norm minimization
+* Matrix completion (low-rank matrix approximation via nuclear norm minimization)
 
 ![matrixcompletion](https://user-images.githubusercontent.com/49653689/95283874-c1eb3d00-082a-11eb-92bc-403cf2b50a9e.png)
 
