@@ -27,7 +27,7 @@ The purpose of this coursework is to implement recommendation techniques and sug
 * Users Similarity Matrix: 46 * 46
 * Items Similarity Matrix: 20 * 20
 
-### Workflow
+### Recommendation techniques
 
 #### User-based collaborative filter 
 
