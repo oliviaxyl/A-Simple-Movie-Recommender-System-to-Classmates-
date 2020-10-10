@@ -13,6 +13,7 @@ The purpose of this coursework is to implement recommendation techniques and sug
 
 ### Technologies
 * R
+*
 
 ## Project Description
 
