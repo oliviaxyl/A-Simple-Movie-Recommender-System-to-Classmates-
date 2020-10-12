@@ -61,8 +61,6 @@ The purpose of this coursework is to implement recommendation techniques and sug
 
 ![true](https://user-images.githubusercontent.com/49653689/95707352-4a048480-0c27-11eb-9989-022e525c3b0a.png)
 
-* Add ‘The Shawkshank Redemption’ to my movie list!
-
 ## Reference
 
 Package ‘softImpute’ 
