@@ -9,10 +9,10 @@
 The purpose of this coursework is to implement recommendation techniques and suggest relevant movies to classmates.
 
 ### Methods Used
-* Item-based Collaborative Filter 
-* User-based Collaborative Filter 
-* Low-rank Approximation
-* Neural Collaborative Filtering
+* Item-based collaborative filter 
+* User-based collaborative filter 
+* Low-rank approximation
+* Neural collaborative filtering
 
 ### Technologies
 * R
@@ -23,20 +23,20 @@ The purpose of this coursework is to implement recommendation techniques and sug
 
 ### Data 
 
-* User-Based Matrix U: 46 (Users) * 14 ('Gender' + 'Favorite Color' + 12 Genres 0/1)
-* Item Based Matrix I: 20 (Movies) * 12 (Genres)
-* Rating Matrix l: 20 (Movie ratings scaled in 1-5) * 46 (Users)
+* User-based matrix U: 46 (Users) * 14 ('Gender' + 'Favorite Color' + 12 Genres 0/1)
+* Item-based matrix I: 20 (Movies) * 12 (Genres)
+* Rating matrix l: 20 (Movie ratings scaled in 1-5) * 46 (Users)
 
-* Users Similarity Matrix: 46 * 46
-* Items Similarity Matrix: 20 * 20
+* Users similarity matrix: 46 * 46
+* Items similarity matrix: 20 * 20
 
 ### Recommendation Techniques
 
-* User-based Collaborative Filter 
+* User-based collaborative filter 
 
 ![user](https://user-images.githubusercontent.com/49653689/95283857-b9930200-082a-11eb-8ed3-fc1ef52e68b3.png)
 
-* Item-based Collaborative Filter 
+* Item-based collaborative filter 
 
 ![item](https://user-images.githubusercontent.com/49653689/95283871-bef04c80-082a-11eb-97b6-18cd2db35a65.png)
 
