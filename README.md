@@ -49,15 +49,19 @@ The purpose of this coursework is to implement recommendation techniques and sug
 
 ### Results
 
-* NeuMF model test MAE: 0.77
+* NeuMF model test MAE: 
 
-* Top 5 recommended movie from NeuMF model:
+0.77
+
+* Top 5 movie recommended from NeuMF model:
 
 ![NeuMFRec](https://user-images.githubusercontent.com/49653689/95703561-35bb8a00-0c1d-11eb-881e-4a2a3b9c5d83.png)
 
-* Rating from desired user:
+* Rating from the desired user:
 
 ![actual](https://user-images.githubusercontent.com/49653689/95703572-3a803e00-0c1d-11eb-8c65-33e19df7a4f3.png)
+
+*
 
 ## Reference
 
