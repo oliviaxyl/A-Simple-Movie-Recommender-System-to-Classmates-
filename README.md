@@ -16,7 +16,7 @@ The purpose of this coursework is to implement recommendation techniques and sug
 ### Technologies
 * R
 * Jupyter, Python 3
-* Pandas, Numpy, sklearn, keras
+* Pandas, Numpy, matplotlib, sklearn, keras
 
 ## Project Description
 
