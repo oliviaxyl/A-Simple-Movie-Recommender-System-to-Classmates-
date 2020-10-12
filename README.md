@@ -49,17 +49,17 @@ The purpose of this coursework is to implement recommendation techniques and sug
 
 ### Results
 
-* NeuMF model test MAE: 0.77
+* NeuMF model test MAE: 0.7
 
-![maeplot](https://user-images.githubusercontent.com/49653689/95704523-1a517e80-0c1f-11eb-989e-2770fbd0f2fe.png)
+![maeplot](https://user-images.githubusercontent.com/49653689/95707337-3fe28600-0c27-11eb-9ee9-c8b4a2d40afe.png)
 
 * Top 5 movie recommended from NeuMF model:
 
-![NeuMFRec](https://user-images.githubusercontent.com/49653689/95703561-35bb8a00-0c1d-11eb-881e-4a2a3b9c5d83.png)
+![neu](https://user-images.githubusercontent.com/49653689/95707346-4670fd80-0c27-11eb-87a5-9347e2890e7e.png)
 
 * Rating from the desired user:
 
-![actual](https://user-images.githubusercontent.com/49653689/95703572-3a803e00-0c1d-11eb-8c65-33e19df7a4f3.png)
+![true](https://user-images.githubusercontent.com/49653689/95707352-4a048480-0c27-11eb-9989-022e525c3b0a.png)
 
 * Add ‘The Shawkshank Redemption’ to my movie list!
 
