@@ -85,3 +85,9 @@ https://towardsdatascience.com/neural-collaborative-filtering-96cef1009401
 
 Neural Networks for Collaborative Filtering（keras example) 
 https://nipunbatra.github.io/blog/ml/2017/12/29/neural-collaborative-filtering.html
+
+Neural Collaborative Filtering with NeuMF
+http://caravanuden.com/spotify_recsys/neural_collaborative_filtering.html
+
+Neural Networks for Collaborative Filtering
+https://nipunbatra.github.io/blog/ml/2017/12/29/neural-collaborative-filtering.html
