@@ -53,7 +53,7 @@ The purpose of this coursework is to implement recommendation techniques and sug
 
 ![maeplot](https://user-images.githubusercontent.com/49653689/95707337-3fe28600-0c27-11eb-9ee9-c8b4a2d40afe.png)
 
-* Top 5 movies recommended for the desired user from NeuMF model:
+* Top 5 movies recommended for the desired user:
 
 ![neu](https://user-images.githubusercontent.com/49653689/95707346-4670fd80-0c27-11eb-87a5-9347e2890e7e.png)
 
