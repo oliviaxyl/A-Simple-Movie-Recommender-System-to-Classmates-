@@ -49,7 +49,7 @@ The purpose of this coursework is to implement recommendation techniques and sug
 
 ### Results
 
-* MAE from NeuMF model : 
+* Test MAE of NeuMF model : 0.77
 
 * Top 5 recommended movie from NeuMF model:
 
