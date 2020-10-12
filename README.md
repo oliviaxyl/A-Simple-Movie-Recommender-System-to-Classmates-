@@ -44,7 +44,7 @@ The purpose of this coursework is to implement recommendation techniques and sug
 
 ![matrixcompletion](https://user-images.githubusercontent.com/49653689/95283874-c1eb3d00-082a-11eb-92bc-403cf2b50a9e.png)
 
-* Neural Matrix Factorization
+* Neural matrix factorization
 
 ![NeuMF](https://user-images.githubusercontent.com/49653689/95661480-b4210a80-0afd-11eb-843b-5f26d2236d00.png)
 
