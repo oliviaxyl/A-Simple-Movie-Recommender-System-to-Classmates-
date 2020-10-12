@@ -59,7 +59,7 @@ The purpose of this coursework is to implement recommendation techniques and sug
 
 ![actual](https://user-images.githubusercontent.com/49653689/95703572-3a803e00-0c1d-11eb-8c65-33e19df7a4f3.png)
 
-* ‘The Shawkshank Redemption’ is the movie from NeuMF recommender system I haven't watched, so add that to my movie list!
+* Add ‘The Shawkshank Redemption’ to my movie list!
 
 ## Reference
 
