@@ -28,7 +28,7 @@ The purpose of this coursework is to implement recommendation techniques and sug
 * Rating matrix l: 20 (Movie ratings scaled in 1-5) * 46 (Users)
 
 * Users similarity matrix: 46 * 46
-* Items similarity matrix: 20 * 20
+* Items similarity matrix: 20 * 20 
 
 ### Recommendation Techniques
 
